@@ -2,7 +2,7 @@ public class Profesor extends Persona {
 
     private String NPR;
 
-    private modulo[] docencia;
+    private Modulo[] docencia;
 
     public void anadirmodulo() {
     }

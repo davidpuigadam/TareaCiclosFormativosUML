@@ -11,8 +11,9 @@ public class Alumno extends Persona {
     termina de cursar el ciclo completo puede pedir un certificado que acredite
     las competencias que si tenga adquiridas.
     */
-    public emitirCertificado() {
+    public void emitirCertificado() {
         throw new UnsupportedOperationException("Not supported yet.");
+        
     }
 
     public void calcularNotaMedia() {
